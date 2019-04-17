@@ -36,7 +36,7 @@
 
     "extra": {
         "branch-alias": {
-            "zeelo-php-vcr": "zeelo-php-vcr"
+            "dev-master": "zeelo-php-vcr"
         }
     }
 }
