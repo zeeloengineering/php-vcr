@@ -15,7 +15,7 @@
             "email": "daniel@zeelo.co"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "ext-curl": "*",
